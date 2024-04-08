@@ -1,1 +1,1 @@
-export class CreateMovieDto {}
+export class CreateMovieDTO {}
